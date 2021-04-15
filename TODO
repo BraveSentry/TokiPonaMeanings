@@ -1,0 +1,31 @@
+TODO
+
+
+
+Get a list of all TP content words to be used
+
+Make a database
+    What info should be in it?
+        
+
+Find a way for different players to interact.
+
+UI
+    Before play
+        A start button
+        A summary of rules/how to play
+        A display showing other players
+        A shoutbox
+        Options to choose
+            Time per round
+            Number of TP words
+            Target language
+    During play
+        A title with the words to define and their single translations
+        One text input for answers
+        A display with all the answers already given
+        A timer/countdown
+    After play
+        Vote on the definitions of other players       
+        Possibility to mark/correct typos
+        
